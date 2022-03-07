@@ -1,6 +1,18 @@
 ## Easy 2D Processors
 Hi, my name is Yunsoo Woo. I made this repository to make it easy to handle gifs.
 
+지원하는 기능
+* 움짤에서 프레임 추출
+    * 투명 움짤일 경우 흰 배경으로 채움
+* 프레임에서 움짤 생성
+* DeepSIM 훈련을 위한 데이터 세팅
+* EbSynth 프로그램 실행을 위한 데이터 세팅
+
+## History
+### v1.0
+* 기본 기능
+
+
 ### ```gif_processor.py```
 
 ### extracting frames from gif
