@@ -13,7 +13,7 @@ Hi, my name is Yunsoo Woo. I made this repository to make it easy to handle gifs
 * 기본 기능
 
 
-### ```gif_processor.py```
+## ```gif_processor.py```
 
 ### extracting frames from gif
 ```
@@ -28,7 +28,7 @@ python3 gif_processor.py --dir_path frames --save_path result --deepsim True
 This makes a gif file from the frames which are stored in ```--dir_path``` directory and save it in ```--save_path``` directory (If ```--save_path``` is not specified, the result gif file will be saved in the working directory). 
 * If ```--deepsim``` flag is on, it produces a gif file from DeepSIM output.
 
-### ```prepare_data.py```
+## ```prepare_data.py```
 ### preparing data for DeepSIM
 
 ```
